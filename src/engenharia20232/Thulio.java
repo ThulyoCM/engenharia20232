@@ -4,6 +4,7 @@ public class Thulio {
 	
 	private Integer a;
 	private Integer b;
+	
 	private Integer total;
 	
 	public Integer somar(Integer a, Integer b) {
